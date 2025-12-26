@@ -31,8 +31,8 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hadi-4100&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&text_color=DEDEDE&layout=compact" weight=41% height="192px" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadi-4100&layout=compact&show_icons=true&theme=transparent&hide_border=true&text_color=DEDEDE" alt="Top Languages" height="192px">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hadi-4100&theme=dark" weight=41% height="192px" alt="GitHub Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hadi-4100&theme=dark" alt="Top Languages" height="192px">
 </p>
 
 ## ❤️ **Support Me**
